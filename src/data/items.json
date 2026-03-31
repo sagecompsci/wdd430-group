@@ -1,0 +1,323 @@
+[
+  {
+    "id": "item-001",
+    "artistId": "artist-001",
+    "title": "Desert Bloom Wall Hanging",
+    "slug": "desert-bloom-wall-hanging",
+    "description": "A large-format woven wall hanging inspired by the blooming desert after spring rain. Hand-dyed using marigold and indigo, woven on a custom loom with 100% wool yarn. Each piece is unique — colors may vary slightly due to the natural dyeing process.",
+    "category": "Textiles",
+    "subcategory": "Wall Hangings",
+    "price": 185.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 3,
+    "images": [
+      "/images/items/item-001-a.jpg",
+      "/images/items/item-001-b.jpg",
+      "/images/items/item-001-c.jpg"
+    ],
+    "tags": ["wall art", "woven", "boho", "natural dye", "wool"],
+    "dimensions": {
+      "width": "18 in",
+      "height": "36 in",
+      "depth": null
+    },
+    "materials": ["100% wool yarn", "driftwood dowel", "natural plant dyes"],
+    "careInstructions": "Spot clean only. Keep away from direct sunlight to preserve dye colors.",
+    "shippingInfo": {
+      "weight": "0.8 lbs",
+      "processingDays": 3,
+      "freeShipping": false,
+      "shippingCost": 8.50
+    },
+    "rating": 4.9,
+    "reviewCount": 22,
+    "reviews": [
+      {
+        "id": "review-001",
+        "userId": "user-204",
+        "username": "Margot H.",
+        "rating": 5,
+        "title": "Absolutely stunning",
+        "body": "This piece transformed my living room. The colors are even more beautiful in person. Arrived well-packaged and quickly. Elena is a true artist.",
+        "date": "2024-11-03"
+      },
+      {
+        "id": "review-002",
+        "userId": "user-319",
+        "username": "Tamsin B.",
+        "rating": 5,
+        "title": "Worth every penny",
+        "body": "I bought this as a housewarming gift and the recipient cried — in the best way. Incredible craftsmanship.",
+        "date": "2024-12-15"
+      }
+    ],
+    "dateAdded": "2024-09-01",
+    "isFeatured": true,
+    "isCustomizable": false
+  },
+  {
+    "id": "item-003",
+    "artistId": "artist-001",
+    "title": "Sunrise Gradient Table Runner",
+    "slug": "sunrise-gradient-table-runner",
+    "description": "A hand-woven table runner with a warm sunrise gradient from deep rust to pale cream. Made with natural cotton on a rigid heddle loom. Perfect for everyday dining or a special occasion.",
+    "category": "Textiles",
+    "subcategory": "Table Linens",
+    "price": 68.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 7,
+    "images": [
+      "/images/items/item-003-a.jpg",
+      "/images/items/item-003-b.jpg"
+    ],
+    "tags": ["table runner", "woven", "cotton", "dining", "home decor"],
+    "dimensions": {
+      "width": "14 in",
+      "height": "72 in",
+      "depth": null
+    },
+    "materials": ["100% organic cotton", "natural dyes"],
+    "careInstructions": "Hand wash cold, lay flat to dry.",
+    "shippingInfo": {
+      "weight": "0.4 lbs",
+      "processingDays": 2,
+      "freeShipping": true,
+      "shippingCost": 0
+    },
+    "rating": 4.8,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "id": "review-003",
+        "userId": "user-102",
+        "username": "Dani K.",
+        "rating": 5,
+        "title": "So beautiful",
+        "body": "I have it on my farmhouse table and get compliments every time someone visits. The quality is exceptional.",
+        "date": "2025-01-20"
+      }
+    ],
+    "dateAdded": "2024-10-12",
+    "isFeatured": false,
+    "isCustomizable": true
+  },
+  {
+    "id": "item-007",
+    "artistId": "artist-002",
+    "title": "Wood-Fired Stoneware Mug",
+    "slug": "wood-fired-stoneware-mug",
+    "description": "A generously sized mug thrown on the wheel and fired in a wood kiln over three days. The ash glaze creates a unique surface of greens, blues, and warm ochres — no two are alike. Holds approximately 14oz. Microwave and dishwasher safe.",
+    "category": "Ceramics",
+    "subcategory": "Drinkware",
+    "price": 52.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 12,
+    "images": [
+      "/images/items/item-007-a.jpg",
+      "/images/items/item-007-b.jpg",
+      "/images/items/item-007-c.jpg"
+    ],
+    "tags": ["mug", "stoneware", "wood-fired", "ceramics", "kitchen"],
+    "dimensions": {
+      "width": "3.5 in",
+      "height": "4.2 in",
+      "depth": null
+    },
+    "materials": ["stoneware clay", "natural ash glaze"],
+    "careInstructions": "Dishwasher safe, though hand washing will preserve the glaze longer. Microwave safe.",
+    "shippingInfo": {
+      "weight": "1.1 lbs",
+      "processingDays": 5,
+      "freeShipping": false,
+      "shippingCost": 10.00
+    },
+    "rating": 4.7,
+    "reviewCount": 38,
+    "reviews": [
+      {
+        "id": "review-007",
+        "userId": "user-540",
+        "username": "Reuben T.",
+        "rating": 5,
+        "title": "My favorite mug ever",
+        "body": "I have a collection of handmade mugs and this one has become my daily driver. The weight is perfect and the glaze is stunning.",
+        "date": "2025-02-01"
+      },
+      {
+        "id": "review-008",
+        "userId": "user-781",
+        "username": "Clara W.",
+        "rating": 4,
+        "title": "Great but shipping was slow",
+        "body": "The mug itself is gorgeous and worth every cent. Shipping took longer than expected, but Marcus was communicative throughout.",
+        "date": "2025-02-18"
+      }
+    ],
+    "dateAdded": "2024-07-22",
+    "isFeatured": true,
+    "isCustomizable": false
+  },
+  {
+    "id": "item-011",
+    "artistId": "artist-003",
+    "title": "Lotus Bloom Embroidered Hoop",
+    "slug": "lotus-bloom-embroidered-hoop",
+    "description": "A 10-inch embroidery hoop featuring a hand-stitched lotus surrounded by Kerala-inspired foliage in jewel tones on natural linen. Over 40 hours of work. Ready to hang as wall art — the hoop is wrapped in matching linen.",
+    "category": "Fiber Arts",
+    "subcategory": "Embroidery",
+    "price": 145.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 1,
+    "images": [
+      "/images/items/item-011-a.jpg",
+      "/images/items/item-011-b.jpg"
+    ],
+    "tags": ["embroidery", "hoop art", "wall art", "floral", "handstitched"],
+    "dimensions": {
+      "width": "10 in",
+      "height": "10 in",
+      "depth": "0.5 in"
+    },
+    "materials": ["natural linen", "DMC embroidery floss", "bamboo hoop"],
+    "careInstructions": "Display away from direct sunlight. Do not wet clean — dust gently with a dry soft brush.",
+    "shippingInfo": {
+      "weight": "0.3 lbs",
+      "processingDays": 1,
+      "freeShipping": true,
+      "shippingCost": 0
+    },
+    "rating": 5.0,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "id": "review-011",
+        "userId": "user-663",
+        "username": "Anita M.",
+        "rating": 5,
+        "title": "A masterpiece",
+        "body": "I bought this for my home office and I still stop to look at it every day. The detail is breathtaking. Priya is incredibly talented.",
+        "date": "2025-03-05"
+      }
+    ],
+    "dateAdded": "2025-01-08",
+    "isFeatured": false,
+    "isCustomizable": true
+  },
+  {
+    "id": "item-015",
+    "artistId": "artist-004",
+    "title": "Black Walnut Serving Board",
+    "slug": "black-walnut-serving-board",
+    "description": "A hand-planed black walnut charcuterie and serving board with a through-mortise handle. Finished with food-safe beeswax and linseed oil. The live edge is preserved on one side, showcasing the natural beauty of the wood. Sourced from a family-owned mill in western North Carolina.",
+    "category": "Woodworking",
+    "subcategory": "Kitchen & Dining",
+    "price": 95.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 5,
+    "images": [
+      "/images/items/item-015-a.jpg",
+      "/images/items/item-015-b.jpg",
+      "/images/items/item-015-c.jpg"
+    ],
+    "tags": ["charcuterie board", "walnut", "live edge", "serving board", "kitchen", "sustainable"],
+    "dimensions": {
+      "width": "9 in",
+      "height": "16 in",
+      "depth": "0.75 in"
+    },
+    "materials": ["Appalachian black walnut", "beeswax", "linseed oil"],
+    "careInstructions": "Hand wash only — never soak or put in dishwasher. Re-oil occasionally with food-safe mineral oil to maintain finish.",
+    "shippingInfo": {
+      "weight": "2.4 lbs",
+      "processingDays": 4,
+      "freeShipping": false,
+      "shippingCost": 14.00
+    },
+    "rating": 5.0,
+    "reviewCount": 61,
+    "reviews": [
+      {
+        "id": "review-015",
+        "userId": "user-290",
+        "username": "Beth A.",
+        "rating": 5,
+        "title": "Beyond expectations",
+        "body": "Ordered one for myself and three as gifts. Everyone is obsessed. The grain pattern on mine is stunning — truly one of a kind.",
+        "date": "2025-01-30"
+      },
+      {
+        "id": "review-016",
+        "userId": "user-411",
+        "username": "Greg P.",
+        "rating": 5,
+        "title": "Heirloom quality",
+        "body": "James builds things to last. This board will outlive me and I mean that as the highest compliment.",
+        "date": "2025-03-12"
+      }
+    ],
+    "dateAdded": "2023-05-10",
+    "isFeatured": true,
+    "isCustomizable": true
+  },
+  {
+    "id": "item-020",
+    "artistId": "artist-005",
+    "title": "Mjolnir Pendant — Sterling Silver",
+    "slug": "mjolnir-pendant-sterling-silver",
+    "description": "A cold-forged sterling silver pendant inspired by Thor's hammer from Norse mythology. Measures 1.25 inches tall with a hammer-textured surface and a matte finish. Comes on an 18-inch sterling silver chain. Each pendant is made to order and signed on the back.",
+    "category": "Jewelry",
+    "subcategory": "Pendants & Necklaces",
+    "price": 118.00,
+    "currency": "USD",
+    "inStock": true,
+    "quantity": 8,
+    "images": [
+      "/images/items/item-020-a.jpg",
+      "/images/items/item-020-b.jpg"
+    ],
+    "tags": ["necklace", "silver", "norse", "viking", "pendant", "mythology"],
+    "dimensions": {
+      "width": "0.75 in",
+      "height": "1.25 in",
+      "depth": "0.15 in"
+    },
+    "materials": ["925 sterling silver"],
+    "careInstructions": "Store in the provided anti-tarnish pouch. Polish with a silver cloth as needed. Avoid contact with lotions and perfumes.",
+    "shippingInfo": {
+      "weight": "0.1 lbs",
+      "processingDays": 7,
+      "freeShipping": true,
+      "shippingCost": 0
+    },
+    "rating": 4.6,
+    "reviewCount": 27,
+    "reviews": [
+      {
+        "id": "review-020",
+        "userId": "user-874",
+        "username": "Leif S.",
+        "rating": 5,
+        "title": "Wearing it every day",
+        "body": "Solid, substantial, beautifully made. Sofia's work is exceptional — you can feel the care in the weight of it.",
+        "date": "2025-02-25"
+      },
+      {
+        "id": "review-021",
+        "userId": "user-533",
+        "username": "Rachel D.",
+        "rating": 4,
+        "title": "Great gift",
+        "body": "Bought for my partner who is obsessed with Norse mythology. He loved it. Shipping took 9 days but came packaged beautifully.",
+        "date": "2025-03-20"
+      }
+    ],
+    "dateAdded": "2024-08-14",
+    "isFeatured": false,
+    "isCustomizable": true
+  }
+]
