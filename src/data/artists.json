@@ -1,0 +1,132 @@
+[
+  {
+    "id": "artist-001",
+    "name": "Elena Vasquez",
+    "slug": "elena-vasquez",
+    "email": "elena@handcraftedhaven.com",
+    "avatar": "/images/artists/elena-vasquez.jpg",
+    "bio": "Born in Santa Fe, New Mexico, Elena has been weaving and dyeing textiles for over 15 years. Her work blends Southwestern tradition with modern minimalist aesthetics. Every piece is hand-dyed using natural plant pigments sourced from her own garden.",
+    "specialty": "Textiles & Fiber Arts",
+    "location": {
+      "city": "Santa Fe",
+      "state": "NM",
+      "country": "USA"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com/elenavasquezcraft",
+      "etsy": "https://etsy.com/shop/ElenaVasquez",
+      "website": "https://elenavasquez.com"
+    },
+    "memberSince": "2022-03-14",
+    "rating": 4.9,
+    "reviewCount": 134,
+    "totalSales": 312,
+    "featuredItem": "item-003",
+    "isVerified": true,
+    "tags": ["textiles", "weaving", "natural dye", "southwestern"]
+  },
+  {
+    "id": "artist-002",
+    "name": "Marcus Okafor",
+    "slug": "marcus-okafor",
+    "email": "marcus@handcraftedhaven.com",
+    "avatar": "/images/artists/marcus-okafor.jpg",
+    "bio": "Marcus is a self-taught ceramicist based in Portland, Oregon. After leaving a career in architecture, he turned to clay as a way to reconnect with slow, intentional making. His pieces are wheel-thrown and wood-fired, resulting in one-of-a-kind textures and earth tones.",
+    "specialty": "Ceramics & Pottery",
+    "location": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com/marcusokaforpottery",
+      "etsy": null,
+      "website": "https://marcusokafor.studio"
+    },
+    "memberSince": "2021-08-02",
+    "rating": 4.7,
+    "reviewCount": 89,
+    "totalSales": 201,
+    "featuredItem": "item-007",
+    "isVerified": true,
+    "tags": ["ceramics", "pottery", "wheel-thrown", "wood-fired"]
+  },
+  {
+    "id": "artist-003",
+    "name": "Priya Nair",
+    "slug": "priya-nair",
+    "email": "priya@handcraftedhaven.com",
+    "avatar": "/images/artists/priya-nair.jpg",
+    "bio": "Priya grew up watching her grandmother embroider saris in Kerala, India. Today she carries that legacy forward from her studio in Austin, Texas, creating intricate hand-embroidered pieces that fuse South Asian motifs with contemporary design.",
+    "specialty": "Embroidery & Needlework",
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com/priyanairstudio",
+      "etsy": "https://etsy.com/shop/PriyaNairStudio",
+      "website": null
+    },
+    "memberSince": "2023-01-19",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "totalSales": 98,
+    "featuredItem": "item-011",
+    "isVerified": false,
+    "tags": ["embroidery", "needlework", "south asian", "textile art"]
+  },
+  {
+    "id": "artist-004",
+    "name": "James Whitfield",
+    "slug": "james-whitfield",
+    "email": "james@handcraftedhaven.com",
+    "avatar": "/images/artists/james-whitfield.jpg",
+    "bio": "James is a third-generation woodworker from Asheville, North Carolina. His furniture and home goods are crafted from sustainably harvested Appalachian hardwoods, and finished entirely with hand tools. Each item carries the character of the grain and the marks of the maker.",
+    "specialty": "Woodworking & Furniture",
+    "location": {
+      "city": "Asheville",
+      "state": "NC",
+      "country": "USA"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com/whitfieldwoodcraft",
+      "etsy": "https://etsy.com/shop/WhitfieldWood",
+      "website": "https://whitfieldwoodcraft.com"
+    },
+    "memberSince": "2020-11-05",
+    "rating": 5.0,
+    "reviewCount": 218,
+    "totalSales": 487,
+    "featuredItem": "item-015",
+    "isVerified": true,
+    "tags": ["woodworking", "furniture", "sustainable", "appalachian", "handmade"]
+  },
+  {
+    "id": "artist-005",
+    "name": "Sofia Andersen",
+    "slug": "sofia-andersen",
+    "email": "sofia@handcraftedhaven.com",
+    "avatar": "/images/artists/sofia-andersen.jpg",
+    "bio": "Sofia is a Danish-American jeweler working out of Brooklyn, New York. She specializes in cold-forged sterling silver and responsibly sourced gemstones. Her designs draw from Nordic mythology and the natural world — minimalist, yet deeply symbolic.",
+    "specialty": "Jewelry & Metalwork",
+    "location": {
+      "city": "Brooklyn",
+      "state": "NY",
+      "country": "USA"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com/sofiaandersenjewelry",
+      "etsy": "https://etsy.com/shop/SofiaAndersen",
+      "website": "https://sofiaandersen.nyc"
+    },
+    "memberSince": "2022-06-30",
+    "rating": 4.6,
+    "reviewCount": 73,
+    "totalSales": 155,
+    "featuredItem": "item-020",
+    "isVerified": true,
+    "tags": ["jewelry", "silver", "gemstones", "nordic", "minimalist"]
+  }
+]
