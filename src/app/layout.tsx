@@ -11,7 +11,7 @@ export default function Layout({
         <html lang="en">
             <body className={`${open_sans.className} bg-olive-200 text-olive-900 flex`}>
                 <SideNav/>
-                <div className="m-4">{children}</div>
+                <div className="m-4 w-full">{children}</div>
             </body>
         </html>
     )
